@@ -3,7 +3,7 @@
 > **Author / Created By:** ELAVARASAN R
 ---
 
-![HR Workforce Dashboard Summary](screenshots/hr_workforce_dashboard1.png)
+![HR Workforce Dashboard Summary]screenshots/hr_workforce_dashboard1.png
 
 ---
 
